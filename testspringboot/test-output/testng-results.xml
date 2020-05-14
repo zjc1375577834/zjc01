@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="5068" started-at="2020-05-14T08:28:25Z" finished-at="2020-05-14T08:28:30Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5068" started-at="2020-05-14T08:28:25Z" finished-at="2020-05-14T08:28:30Z">
+      <class name="springboot.testng.core.imp.HttpTestngHandle">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="beforeSuite" is-config="true" duration-ms="1" started-at="2020-05-14T08:28:25Z" finished-at="2020-05-14T08:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:25Z" finished-at="2020-05-14T08:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:25Z" finished-at="2020-05-14T08:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:25Z" finished-at="2020-05-14T08:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="function(java.util.Map, java.util.Map, java.util.Map)[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="function" duration-ms="4321" started-at="2020-05-14T08:28:25Z" data-provider="dp" finished-at="2020-05-14T08:28:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{opt=ceshi, seq=sdasdasd}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{user=ceshi, passWrod=ceshi1234}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[{passWrod=ceshi1234, userName=张三, user=ceshi}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="function(java.util.Map, java.util.Map, java.util.Map)[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="function" duration-ms="220" started-at="2020-05-14T08:28:30Z" data-provider="dp" finished-at="2020-05-14T08:28:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{opt=ceshi, seq=sdasdasd}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{user=test, passWrod=ceshi1234}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[{passWrod=ceshi1234, userName=张三, user=ceshi}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="function(java.util.Map, java.util.Map, java.util.Map)[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="function" duration-ms="225" started-at="2020-05-14T08:28:30Z" data-provider="dp" finished-at="2020-05-14T08:28:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{opt=ceshi, seq=sdasdasd}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{user=test, passWrod=test1234}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[{passWrod=ceshi1234, userName=张三, user=ceshi}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="function(java.util.Map, java.util.Map, java.util.Map)[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="function" duration-ms="257" started-at="2020-05-14T08:28:30Z" data-provider="dp" finished-at="2020-05-14T08:28:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{opt=ceshi, seq=sdasdasd}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{user=test, passWrod=test1234}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[{passWrod=test1234, userName=张三, user=test}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="afterClass" is-config="true" duration-ms="13" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:springboot.testng.core.imp.HttpTestngHandle@4b8324fa]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-05-14T08:28:30Z" finished-at="2020-05-14T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- springboot.testng.core.imp.HttpTestngHandle -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
